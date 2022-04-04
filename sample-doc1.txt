@@ -1,0 +1,25 @@
+2/22/2021 Exhibit
+h 1/7
+EX-10.2 2 flextronics-fireeyedatapro.htm EXHIBIT 10.2
+<3# FireEye*
+4ECUM1T
+Exhibit 10.2
+Data Processing Addendum
+To
+Flextronics Design and Manufacturing Services Agreement
+Between
+Flextronics Telecom Systems, Ltd. and FireEye, Inc
+This Data Processing Addendum to the Flextronics Design and Manufacturing Services Agreement
+(hereinafter referred to as the �Data Processing Addendum� or �Addendum�) is dated and made effective as of 9th day of
+April 2018 (the �Addendum Effective Date�), and is by and between Flextronics Telecom Systems, Ltd., with a place of
+business located at Level 3, Alexander House, 35 Cybercity, Ebene, Mauritius, including some of its affiliates and wholly
+owned subsidiaries in accordance with Section 12.10(i) of the Agreement (hereinafter collectively referred to as �Flextronics�
+or �Service Provider�) and FireEye, Inc., a Delaware corporation, with offices located at 601 McCarthy Blvd., Milpitas, CA
+95035, and FireEye Ireland Limited, a company organized and existing under the laws of Ireland, having a place of business
+at First Floor, Block B, City Gate Park, Mahon, Cork, Ireland (hereinafter referred to collectively as �FireEye� or �Customer�
+as defined in the Agreement). This Addendum is an amendment to the Flextronics Design and Manufacturing Services
+Agreement (and referred to as the �Agreement�) that was entered into by the parties on or about September 28, 2012.
+For clarity, this Addendum only applies if and to the extent to Personal Data relating to FireEye and its personnel
+that is received by Service Provider from or on behalf of FireEye for Processing as a data importer while performing those
+functions or activities as required by the Agreement.
+The parties hereby agree as follows:
